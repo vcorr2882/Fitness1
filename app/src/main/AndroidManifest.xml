@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.fitnessapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Fitnessapp">
+        <activity android:name=".CalvesWorkout1"></activity>
+        <activity android:name=".CalvesMain" />
+        <activity android:name=".BicepsWorkout3" />
+        <activity android:name=".BicepsWorkout2" />
+        <activity android:name=".BicepsWorkout1" />
+        <activity android:name=".BackWorkout3" />
+        <activity android:name=".BackWorkout2" />
+        <activity android:name=".BackWorkout1" />
+        <activity android:name=".AbsWorkout3" />
+        <activity android:name=".AbsWorkout2" />
+        <activity android:name=".AbsWorkout1" />
+        <activity android:name=".BicepsMain" />
+        <activity android:name=".BackMain" />
+        <activity android:name=".AbsMain" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

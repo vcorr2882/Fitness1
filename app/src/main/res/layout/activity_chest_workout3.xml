@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".CalvesWorkout1">
+    tools:context=".ChestWorkout3">
 
 
     <LinearLayout
@@ -16,14 +16,14 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="50dp"
-            android:text="Gastrocnemius"
+            android:text="Lower Chest"
             android:gravity="center"
             android:textSize="35dp" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="50dp"
-            android:text="Reps: 20 Rest: 10sec"
+            android:text="Reps: 15 Rest: 15sec"
             android:gravity="left"
             android:textSize="28dp"
             android:textStyle="bold"/>
@@ -67,7 +67,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="Stand up holding two dumbbells in each hand. Step onto an elevated surface with the balls of your feet. With your heels hanging off the surface, keep your core engaged while raising your heels as high as possible. Then slowly lower your heels down below the surface until you feel a stretch in your calves. Repeat."
+            android:text="Straight bar dips. Start by suspending yourself from the ground with two parallel bars. Then lower yourself slowly and in control without touching the ground until your elbows are bent at 90° then lift yourself back up. Repeat."
             android:textSize="16dp" />
 
     </LinearLayout>

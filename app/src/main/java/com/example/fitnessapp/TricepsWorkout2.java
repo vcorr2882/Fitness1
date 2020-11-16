@@ -5,16 +5,16 @@ import androidx.viewpager.widget.ViewPager;
 
 import android.os.Bundle;
 
-public class CalvesWorkout1 extends AppCompatActivity {
+public class TricepsWorkout2 extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_calves_workout1);
+        setContentView(R.layout.activity_tricep_workout2);
 
-        //To access the CalvesWorkout1ImageAdapter
+        //To access the TricepsWorkout2ImageAdapter
         ViewPager viewPager = findViewById(R.id.viewPager);
-        CalvesWorkout1ImageAdapter adapter = new CalvesWorkout1ImageAdapter(this);
+        TricepsWorkout2ImageAdapter adapter = new TricepsWorkout2ImageAdapter(this);
         viewPager.setAdapter(adapter);
 
     }

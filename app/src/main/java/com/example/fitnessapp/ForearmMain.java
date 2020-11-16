@@ -8,7 +8,7 @@ import android.view.View;
 import android.widget.ImageButton;
 import android.widget.LinearLayout;
 
-public class CalvesMain extends AppCompatActivity {
+public class ForearmMain extends AppCompatActivity {
 
     private ImageButton imageButton1;
     private LinearLayout linearLayout1;
@@ -20,10 +20,10 @@ public class CalvesMain extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_calves_main);
+        setContentView(R.layout.forearm_main);
 
         //Code for intent on button1 and linear layout1
-        imageButton1 = findViewById(R.id.calvesmainbutton1);
+        imageButton1 = findViewById(R.id.forearmmainbutton1);
         imageButton1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -41,7 +41,7 @@ public class CalvesMain extends AppCompatActivity {
 
 
         //Code for intent on button2 and linear layout2
-        imageButton2 = findViewById(R.id.calvesmainbutton2);
+        imageButton2 = findViewById(R.id.forearmmainbutton2);
         imageButton2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -58,7 +58,7 @@ public class CalvesMain extends AppCompatActivity {
 
 
         //Code for intent on button3 and linear layout3
-        imageButton3 = findViewById(R.id.calvesmainbutton3);
+        imageButton3 = findViewById(R.id.forearmmainbutton3);
         imageButton3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -81,17 +81,17 @@ public class CalvesMain extends AppCompatActivity {
 
     //Method for intent on button1 and linear layout1
     public void openActivity1() {
-        Intent intent = new Intent(this, CalvesWorkout1.class);
+        Intent intent = new Intent(this, ForearmWorkout1.class);
         startActivity(intent);
     }
     //Method for intent on button2 and linear layout2
     public void openActivity2() {
-        Intent intent = new Intent(this, CalvesWorkout2.class);
+        Intent intent = new Intent(this, ForearmWorkout2.class);
         startActivity(intent);
     }
     //Method for intent on button3 and linear layout3
     public void openActivity3() {
-        Intent intent = new Intent(this, CalvesWorkout3.class);
+        Intent intent = new Intent(this, ForearmWorkout3.class);
         startActivity(intent);
     }
 

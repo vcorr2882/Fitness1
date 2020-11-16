@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:gravity="center"
     android:orientation="vertical"
-    tools:context=".BicepsMain">
+    tools:context=".ChestMain">
 
 
     <LinearLayout
@@ -16,22 +16,22 @@
         android:orientation="horizontal">
 
         <ImageButton
-            android:id="@+id/calvesmainbutton1"
+            android:id="@+id/chestmainbutton1"
             android:layout_width="90dp"
             android:layout_height="match_parent"
             android:adjustViewBounds="true"
             android:background="@color/black"
             android:scaleType="fitCenter"
-            android:src="@drawable/bicepsmainworkout1" />
+            android:src="@drawable/absmainworkout1" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:drawableRight="@drawable/rightarrow"
             android:gravity="center"
-            android:text="Gastrocnemius "
+            android:text="Upper Chest"
             android:textStyle="bold"
-            android:textSize="40dp" />
+            android:textSize="50dp" />
 
     </LinearLayout>
 
@@ -44,20 +44,20 @@
         android:orientation="horizontal">
 
         <ImageButton
-            android:id="@+id/calvesmainbutton2"
+            android:id="@+id/chestmainbutton2"
             android:layout_width="90dp"
             android:layout_height="match_parent"
             android:adjustViewBounds="true"
             android:background="@color/black"
             android:scaleType="fitCenter"
-            android:src="@drawable/bicepsmainworkout2" />
+            android:src="@drawable/absmainworkout2" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:drawableRight="@drawable/rightarrow"
             android:gravity="center"
-            android:text="Soleus"
+            android:text="Center Chest"
             android:textStyle="bold"
             android:textSize="50dp" />
 
@@ -73,20 +73,20 @@
         android:orientation="horizontal">
 
         <ImageButton
-            android:id="@+id/calvesmainbutton3"
+            android:id="@+id/chestmainbutton3"
             android:layout_width="90dp"
             android:layout_height="match_parent"
             android:adjustViewBounds="true"
             android:background="@color/black"
             android:scaleType="fitCenter"
-            android:src="@drawable/backmainworkout3" />
+            android:src="@drawable/absmainworkout3" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:drawableRight="@drawable/rightarrow"
             android:gravity="center"
-            android:text="Calves"
+            android:text="Lower Chest"
             android:textStyle="bold"
             android:textSize="50dp" />
 

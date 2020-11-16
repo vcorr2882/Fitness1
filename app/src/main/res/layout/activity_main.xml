@@ -93,6 +93,171 @@
 
         </LinearLayout>
 
+    <LinearLayout
+        android:id="@+id/linearlayout4"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:orientation="horizontal"
+        >
+
+        <ImageButton
+            android:id="@+id/imageButton4"
+            android:layout_width="90dp"
+            android:layout_height="match_parent"
+            android:adjustViewBounds="true"
+            android:background="@color/black"
+            android:scaleType="fitCenter"
+            android:src="@drawable/biceps" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:drawableRight="@drawable/rightarrow"
+            android:gravity="center"
+            android:text="CALVES"
+            android:textStyle="bold"
+            android:textSize="50dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearlayout5"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:orientation="horizontal"
+        >
+
+        <ImageButton
+            android:id="@+id/imageButton5"
+            android:layout_width="90dp"
+            android:layout_height="match_parent"
+            android:adjustViewBounds="true"
+            android:background="@color/black"
+            android:scaleType="fitCenter"
+            android:src="@drawable/biceps" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:drawableRight="@drawable/rightarrow"
+            android:gravity="center"
+            android:text="CHEST"
+            android:textStyle="bold"
+            android:textSize="50dp" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/linearlayout6"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:orientation="horizontal"
+        >
+
+        <ImageButton
+            android:id="@+id/imageButton6"
+            android:layout_width="90dp"
+            android:layout_height="match_parent"
+            android:adjustViewBounds="true"
+            android:background="@color/black"
+            android:scaleType="fitCenter"
+            android:src="@drawable/biceps" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:drawableRight="@drawable/rightarrow"
+            android:gravity="center"
+            android:text="FOREARMS"
+            android:textStyle="bold"
+            android:textSize="50dp" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/linearlayout7"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:orientation="horizontal"
+        >
+
+        <ImageButton
+            android:id="@+id/imageButton7"
+            android:layout_width="90dp"
+            android:layout_height="match_parent"
+            android:adjustViewBounds="true"
+            android:background="@color/black"
+            android:scaleType="fitCenter"
+            android:src="@drawable/biceps" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:drawableRight="@drawable/rightarrow"
+            android:gravity="center"
+            android:text="LEGS"
+            android:textStyle="bold"
+            android:textSize="50dp" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/linearlayout8"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:orientation="horizontal"
+        >
+
+        <ImageButton
+            android:id="@+id/imageButton8"
+            android:layout_width="90dp"
+            android:layout_height="match_parent"
+            android:adjustViewBounds="true"
+            android:background="@color/black"
+            android:scaleType="fitCenter"
+            android:src="@drawable/biceps" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:drawableRight="@drawable/rightarrow"
+            android:gravity="center"
+            android:text="SHOULDERS"
+            android:textStyle="bold"
+            android:textSize="50dp" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/linearlayout9"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:orientation="horizontal"
+        >
+
+        <ImageButton
+            android:id="@+id/imageButton9"
+            android:layout_width="90dp"
+            android:layout_height="match_parent"
+            android:adjustViewBounds="true"
+            android:background="@color/black"
+            android:scaleType="fitCenter"
+            android:src="@drawable/biceps" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:drawableRight="@drawable/rightarrow"
+            android:gravity="center"
+            android:text="TRICEPS"
+            android:textStyle="bold"
+            android:textSize="50dp" />
+
+    </LinearLayout>
 
 
 
@@ -105,46 +270,41 @@
 
 
 
+    <!--
+        <ImageButton
+            android:id="@+id/imageButton1"
+            android:layout_width="190dp"
+            android:layout_height="150dp"
+            android:adjustViewBounds="true"
+            android:background="@color/black"
+            android:scaleType="fitCenter"
+            android:src="@drawable/abs"
+            tools:layout_editor_absoluteX="193dp"
+            tools:layout_editor_absoluteY="290dp" />
 
+        <ImageButton
+            android:id="@+id/imageButton2"
+            android:layout_width="190dp"
+            android:layout_height="150dp"
+            android:adjustViewBounds="true"
+            android:background="@color/black"
+            android:scaleType="fitCenter"
+            android:src="@drawable/back"
+            tools:layout_editor_absoluteX="193dp"
+            tools:layout_editor_absoluteY="437dp" />
 
+        <ImageButton
+            android:id="@+id/imageButton3"
+            android:layout_width="wrap_content"
+            android:layout_height="256dp"
+            android:accessibilityHeading="true"
+            android:accessibilityPaneTitle="@android:string/autofill"
+            android:textAlignment="center"
+            android:background="@color/black"
+            android:scaleType="fitCenter"
+            android:src="@drawable/biceps"
 
-
-
-            <!--
-                <ImageButton
-                    android:id="@+id/imageButton1"
-                    android:layout_width="190dp"
-                    android:layout_height="150dp"
-                    android:adjustViewBounds="true"
-                    android:background="@color/black"
-                    android:scaleType="fitCenter"
-                    android:src="@drawable/abs"
-                    tools:layout_editor_absoluteX="193dp"
-                    tools:layout_editor_absoluteY="290dp" />
-
-                <ImageButton
-                    android:id="@+id/imageButton2"
-                    android:layout_width="190dp"
-                    android:layout_height="150dp"
-                    android:adjustViewBounds="true"
-                    android:background="@color/black"
-                    android:scaleType="fitCenter"
-                    android:src="@drawable/back"
-                    tools:layout_editor_absoluteX="193dp"
-                    tools:layout_editor_absoluteY="437dp" />
-
-                <ImageButton
-                    android:id="@+id/imageButton3"
-                    android:layout_width="wrap_content"
-                    android:layout_height="256dp"
-                    android:accessibilityHeading="true"
-                    android:accessibilityPaneTitle="@android:string/autofill"
-                    android:textAlignment="center"
-                    android:background="@color/black"
-                    android:scaleType="fitCenter"
-                    android:src="@drawable/biceps"
-
-                    />-->
+            />-->
 
 
 </LinearLayout>

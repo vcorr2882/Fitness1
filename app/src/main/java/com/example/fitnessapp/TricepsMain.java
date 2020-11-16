@@ -81,17 +81,17 @@ public class TricepsMain extends AppCompatActivity {
 
     //Method for intent on button1 and linear layout1
     public void openActivity1() {
-        Intent intent = new Intent(this, ShouldersWorkout1.class);
+        Intent intent = new Intent(this, TricepsWorkout1.class);
         startActivity(intent);
     }
     //Method for intent on button2 and linear layout2
     public void openActivity2() {
-        Intent intent = new Intent(this, ShouldersWorkout2.class);
+        Intent intent = new Intent(this, TricepsWorkout2.class);
         startActivity(intent);
     }
     //Method for intent on button3 and linear layout3
     public void openActivity3() {
-        Intent intent = new Intent(this, ShouldersWorkout3.class);
+        Intent intent = new Intent(this, TricepsWorkout3.class);
         startActivity(intent);
     }
 

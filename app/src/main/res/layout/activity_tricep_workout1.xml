@@ -16,17 +16,17 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="50dp"
-            android:text="Gastrocnemius"
             android:gravity="center"
+            android:text="Triangle Push-Ups"
             android:textSize="35dp" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="50dp"
-            android:text="Reps: 20 Rest: 10sec"
             android:gravity="left"
+            android:text="Reps: 15 Rest: 30sec"
             android:textSize="28dp"
-            android:textStyle="bold"/>
+            android:textStyle="bold" />
     </LinearLayout>
 
 
@@ -63,12 +63,13 @@
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:orientation="vertical">
+
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="Stand up holding two dumbbells in each hand. Step onto an elevated surface with the balls of your feet. With your heels hanging off the surface, keep your core engaged while raising your heels as high as possible. Then slowly lower your heels down below the surface until you feel a stretch in your calves. Repeat."
-            android:textSize="16dp" />
+            android:text="Start in push-up position with fingers and thumb forming a diamond on the floor, Bend elbows and lower body to the ground until arms form a 90 degree angle with the ground and with arms as close to the body as possible.  Push with the force in your arms to return slowly and controlled to the starting push-up position and repeat for rep. count."
+            android:textSize="18dp" />
 
     </LinearLayout>
 

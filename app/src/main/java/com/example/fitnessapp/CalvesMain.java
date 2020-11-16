@@ -20,7 +20,7 @@ public class CalvesMain extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_calves_main);
+        setContentView(R.layout.calves_main);
 
         //Code for intent on button1 and linear layout1
         imageButton1 = findViewById(R.id.calvesmainbutton1);

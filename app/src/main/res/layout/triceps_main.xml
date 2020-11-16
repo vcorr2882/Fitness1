@@ -29,7 +29,7 @@
             android:layout_height="match_parent"
             android:drawableRight="@drawable/rightarrow"
             android:gravity="center"
-            android:text="Lats"
+            android:text="Long Head"
             android:textSize="50dp"
             android:textStyle="bold" />
 
@@ -57,9 +57,9 @@
             android:layout_height="match_parent"
             android:drawableRight="@drawable/rightarrow"
             android:gravity="center"
-            android:text="Middle Back"
-            android:textStyle="bold"
-            android:textSize="50dp" />
+            android:text="Medial Head"
+            android:textSize="50dp"
+            android:textStyle="bold" />
 
     </LinearLayout>
 
@@ -86,9 +86,9 @@
             android:layout_height="match_parent"
             android:drawableRight="@drawable/rightarrow"
             android:gravity="center"
-            android:text="Lower Back"
-            android:textStyle="bold"
-            android:textSize="50dp" />
+            android:text="Lateral Head"
+            android:textSize="50dp"
+            android:textStyle="bold" />
 
     </LinearLayout>
 

@@ -16,8 +16,8 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="50dp"
-            android:text="Center Chest"
             android:gravity="center"
+            android:text="Hammer Squeeze Press"
             android:textSize="35dp" />
 
         <TextView
@@ -41,7 +41,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@color/fitnessapplightblue1"
+            android:background="@color/fitnessappyellow"
             android:drawableLeft="@drawable/leftarrow"
             android:drawableRight="@drawable/rightarrow"
             android:gravity="center"
@@ -63,11 +63,12 @@
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:orientation="vertical">
+
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="Hammer squeeze press. Start by lying on an incline bench with a dumbbell in each hand and a medicine ball between the two dumbbells. Do your regular bench press but focus on squeezing the ball to force the inner chest to do more work.then Repeat."
+            android:text="Start by lying on an incline bench with a dumbbell in each hand and a medicine ball between the two dumbbells. Do your regular bench press but focus on squeezing the ball to force the inner chest to do more work.then Repeat."
             android:textSize="16dp" />
 
     </LinearLayout>

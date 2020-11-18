@@ -16,17 +16,17 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="50dp"
-            android:text="Middle Back"
             android:gravity="center"
+            android:text="Behind Back Shrug"
             android:textSize="35dp" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="50dp"
-            android:text="Reps: 15 Rest: 10sec"
             android:gravity="left"
+            android:text="Reps: 20 Rest: 10sec"
             android:textSize="28dp"
-            android:textStyle="bold"/>
+            android:textStyle="bold" />
     </LinearLayout>
 
 
@@ -41,7 +41,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@color/fitnessapplightblue1"
+            android:background="@color/fitnessappyellow"
             android:drawableLeft="@drawable/leftarrow"
             android:drawableRight="@drawable/rightarrow"
             android:gravity="center"
@@ -63,11 +63,12 @@
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:orientation="vertical">
+
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="Lie down with your hands by your head and your legs raised with your knees bent at a 90° angle. Simultaneously raise your torso and draw your knees towards your chest. Keep your fingers by your temples throughout and initiate each rep smoothly without jerking your torso up. Don’t let your feet touch the floor between reps."
+            android:text="Stand in front of a barbell with the barbell located approx. about the height of your lower back. Lift the weight upward while performing a shrug while getting the bar up as high as possible withoout causing injury or discomfort. Return to start position and repeat for rep. count"
             android:textSize="16dp" />
 
     </LinearLayout>

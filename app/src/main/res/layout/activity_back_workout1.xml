@@ -16,17 +16,17 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="50dp"
-            android:text="Upper Back"
             android:gravity="center"
+            android:text="Standard Pull-Up"
             android:textSize="35dp" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="50dp"
-            android:text="Reps: 15 Rest: 10sec"
             android:gravity="left"
+            android:text="Reps: 10 Rest: 60sec"
             android:textSize="28dp"
-            android:textStyle="bold"/>
+            android:textStyle="bold" />
     </LinearLayout>
 
 
@@ -41,7 +41,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@color/fitnessapplightblue1"
+            android:background="@color/fitnessappyellow"
             android:drawableLeft="@drawable/leftarrow"
             android:drawableRight="@drawable/rightarrow"
             android:gravity="center"
@@ -63,11 +63,12 @@
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:orientation="vertical">
+
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="Lie down with your hands by your head and your legs raised with your knees bent at a 90° angle. Simultaneously raise your torso and draw your knees towards your chest. Keep your fingers by your temples throughout and initiate each rep smoothly without jerking your torso up. Don’t let your feet touch the floor between reps."
+            android:text="Hang from a pull-up bar with arms extended, feet shoulder-width apart and palmsfacing away from you. Pull yourself upward slowly while tightening your abdominal muscles until your neck is above the bar. Hold this position for 1 second and then slowly return to starting position."
             android:textSize="16dp" />
 
     </LinearLayout>

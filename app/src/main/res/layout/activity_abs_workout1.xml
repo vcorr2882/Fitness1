@@ -41,7 +41,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@color/fitnessapplightblue1"
+            android:background="@color/fitnessappyellow"
             android:drawableLeft="@drawable/leftarrow"
             android:drawableRight="@drawable/rightarrow"
             android:gravity="center"

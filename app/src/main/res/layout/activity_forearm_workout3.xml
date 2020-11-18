@@ -16,8 +16,8 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="50dp"
-            android:text="Grip Strength"
             android:gravity="center"
+            android:text="Pull-up Bar Hang"
             android:textSize="35dp" />
 
         <TextView
@@ -41,7 +41,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@color/fitnessapplightblue1"
+            android:background="@color/fitnessappyellow"
             android:drawableLeft="@drawable/leftarrow"
             android:drawableRight="@drawable/rightarrow"
             android:gravity="center"
@@ -63,11 +63,12 @@
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:orientation="vertical">
+
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="Pull-up bar hang. Hang onto a pull-up bar with an underhand grip as long as you can to condition your forearms' grip strength."
+            android:text="Hang onto a pull-up bar with an underhand grip as long as you can to condition your forearms' grip strength."
             android:textSize="16dp" />
 
     </LinearLayout>

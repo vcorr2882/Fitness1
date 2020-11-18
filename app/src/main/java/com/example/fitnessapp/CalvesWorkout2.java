@@ -10,7 +10,7 @@ public class CalvesWorkout2 extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_calves_workout1);
+        setContentView(R.layout.activity_calves_workout2);
 
         //To access the CalvesWorkout2ImageAdapter
         ViewPager viewPager = findViewById(R.id.viewPager);

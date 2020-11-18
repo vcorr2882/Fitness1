@@ -16,8 +16,8 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="50dp"
-            android:text="Overall Calves"
             android:gravity="center"
+            android:text="Walking, Running, Hiking"
             android:textSize="35dp" />
 
         <TextView
@@ -41,7 +41,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@color/fitnessapplightblue1"
+            android:background="@color/fitnessappyellow"
             android:drawableLeft="@drawable/leftarrow"
             android:drawableRight="@drawable/rightarrow"
             android:gravity="center"
@@ -63,11 +63,12 @@
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:orientation="vertical">
+
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="Walking, running, and hiking are all great exercises to build calf muscles. "
+            android:text="Walking, running, and hiking are all great exercises to build calf muscles.  Keep in mind a set and accomplishable distance while remembering to hydrate often, for extra muscle gain try running or walking with a weighted vest or hiking with a weighted pack approriate for hiking"
             android:textSize="16dp" />
 
     </LinearLayout>

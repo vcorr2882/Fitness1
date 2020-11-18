@@ -41,7 +41,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@color/fitnessapplightblue1"
+            android:background="@color/fitnessappyellow"
             android:drawableLeft="@drawable/leftarrow"
             android:drawableRight="@drawable/rightarrow"
             android:gravity="center"
@@ -68,7 +68,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="Start in push-up position with fingers and thumb forming a diamond on the floor, Bend elbows and lower body to the ground until arms form a 90 degree angle with the ground and with arms as close to the body as possible.  Push with the force in your arms to return slowly and controlled to the starting push-up position and repeat for rep. count."
+            android:text="Start in push-up position with fingers and thumb forming a diamond on the floor, Bend elbows and lower body to the ground until arms form a 90 degree angle with the ground and with arms as close to the body as possible.  Push with the force in your arms to return slowly and controlled to the starting push-up position and repeat for rep. count"
             android:textSize="18dp" />
 
     </LinearLayout>

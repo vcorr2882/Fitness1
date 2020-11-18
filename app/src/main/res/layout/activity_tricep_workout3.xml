@@ -16,17 +16,17 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="50dp"
-            android:text="Gastrocnemius"
             android:gravity="center"
+            android:text="Weighted dips"
             android:textSize="35dp" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="50dp"
-            android:text="Reps: 20 Rest: 10sec"
             android:gravity="left"
+            android:text="Reps: 10 Rest: 10sec"
             android:textSize="28dp"
-            android:textStyle="bold"/>
+            android:textStyle="bold" />
     </LinearLayout>
 
 
@@ -41,7 +41,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@color/fitnessapplightblue1"
+            android:background="@color/fitnessappyellow"
             android:drawableLeft="@drawable/leftarrow"
             android:drawableRight="@drawable/rightarrow"
             android:gravity="center"
@@ -63,11 +63,12 @@
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:orientation="vertical">
+
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="Stand up holding two dumbbells in each hand. Step onto an elevated surface with the balls of your feet. With your heels hanging off the surface, keep your core engaged while raising your heels as high as possible. Then slowly lower your heels down below the surface until you feel a stretch in your calves. Repeat."
+            android:text="Start seated on a bench or otherwise low and flat surface, lift your body off and away from the surface with both arms carefully to where body weight is supported equally and both arms are straight. Lower yourself carefully down to a proper extension maintaining support in both legs and arms. Raise yourself back up to starting position, repeat for rep. count"
             android:textSize="16dp" />
 
     </LinearLayout>

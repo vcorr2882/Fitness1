@@ -10,7 +10,7 @@ public class LegsWorkout2 extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_legs_workout1);
+        setContentView(R.layout.activity_legs_workout2);
 
         //To access the LegsWorkout2ImageAdapter
         ViewPager viewPager = findViewById(R.id.viewPager);

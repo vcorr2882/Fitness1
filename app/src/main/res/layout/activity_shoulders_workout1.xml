@@ -16,17 +16,17 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="50dp"
-            android:text="Gastrocnemius"
             android:gravity="center"
+            android:text="Anterior Deltoid Raise"
             android:textSize="35dp" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="50dp"
-            android:text="Reps: 20 Rest: 10sec"
             android:gravity="left"
+            android:text="Reps: 30 Rest: 10sec"
             android:textSize="28dp"
-            android:textStyle="bold"/>
+            android:textStyle="bold" />
     </LinearLayout>
 
 
@@ -41,7 +41,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@color/fitnessapplightblue1"
+            android:background="@color/fitnessappyellow"
             android:drawableLeft="@drawable/leftarrow"
             android:drawableRight="@drawable/rightarrow"
             android:gravity="center"
@@ -63,11 +63,12 @@
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:orientation="vertical">
+
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="Stand up holding two dumbbells in each hand. Step onto an elevated surface with the balls of your feet. With your heels hanging off the surface, keep your core engaged while raising your heels as high as possible. Then slowly lower your heels down below the surface until you feel a stretch in your calves. Repeat."
+            android:text="Stand straight up with legs and feet shoulder-width apart, and a dumbell in each hand, palms facing each other. Slowly in a consistant manner raise your arms forward and up to where dumbells are parallel to the ground and about shoulder height. Return to start position by lowering arms slowly to where they are back by your side, repeat for rep. count"
             android:textSize="16dp" />
 
     </LinearLayout>

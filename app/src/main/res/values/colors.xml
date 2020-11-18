@@ -12,4 +12,6 @@
     <color name="fitnessappcolor">#BF2979FF</color>
     <color name="c">#C8043BE4</color>
     <color name="fitnessapplightblue1">#3DC7FE</color>
+    <color name="fitnessapporange">#fe7a3d</color>
+    <color name="fitnessappyellow">#fedb3d</color>
 </resources>

@@ -16,8 +16,8 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="50dp"
-            android:text="Inner Forearm"
             android:gravity="center"
+            android:text="Dumbell Wrist Flexion"
             android:textSize="35dp" />
 
         <TextView
@@ -41,7 +41,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@color/fitnessapplightblue1"
+            android:background="@color/fitnessappyellow"
             android:drawableLeft="@drawable/leftarrow"
             android:drawableRight="@drawable/rightarrow"
             android:gravity="center"
@@ -63,11 +63,12 @@
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:orientation="vertical">
+
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="Dumbbell wrist flexion. Start with a dumbbell in each hand sitting on the edge of the bench. Place the back of your wrists on your knee caps and start a mini-curl motion with the dumbbell using just your wrist. Repeat."
+            android:text="Start with a dumbbell in each hand sitting on the edge of the bench. Place the back of your wrists on your knee caps and start a mini-curl motion with the dumbbell using just your wrist. Repeat."
             android:textSize="16dp" />
 
     </LinearLayout>

@@ -16,8 +16,8 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="50dp"
-            android:text="Lower Chest"
             android:gravity="center"
+            android:text="Straight Bar Dips"
             android:textSize="35dp" />
 
         <TextView
@@ -41,7 +41,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@color/fitnessapplightblue1"
+            android:background="@color/fitnessappyellow"
             android:drawableLeft="@drawable/leftarrow"
             android:drawableRight="@drawable/rightarrow"
             android:gravity="center"
@@ -63,11 +63,12 @@
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:orientation="vertical">
+
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="Straight bar dips. Start by suspending yourself from the ground with two parallel bars. Then lower yourself slowly and in control without touching the ground until your elbows are bent at 90° then lift yourself back up. Repeat."
+            android:text="Start by suspending yourself from the ground with two parallel bars. Then lower yourself slowly and in control without touching the ground until your elbows are bent at 90° then lift yourself back up. Repeat."
             android:textSize="16dp" />
 
     </LinearLayout>

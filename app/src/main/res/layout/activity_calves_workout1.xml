@@ -16,9 +16,9 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="50dp"
-            android:text="Gastrocnemius"
             android:gravity="center"
-            android:textSize="35dp" />
+            android:text="Elevated Weighted Calf Raises"
+            android:textSize="24sp" />
 
         <TextView
             android:layout_width="match_parent"
@@ -41,7 +41,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@color/fitnessapplightblue1"
+            android:background="@color/fitnessappyellow"
             android:drawableLeft="@drawable/leftarrow"
             android:drawableRight="@drawable/rightarrow"
             android:gravity="center"

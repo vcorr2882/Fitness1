@@ -8,7 +8,7 @@ import androidx.viewpager.widget.PagerAdapter;
 
 public class CalvesWorkout2ImageAdapter extends PagerAdapter {
     private Context mContext;
-    private int[] mImageIds = new int[]{R.drawable.absworkoutone1, R.drawable.absworkoutone2};
+    private int[] mImageIds = new int[]{R.drawable.calvesworkout2n1c, R.drawable.calvesworkout2n2c};
 
     CalvesWorkout2ImageAdapter(Context context) {
         mContext = context;

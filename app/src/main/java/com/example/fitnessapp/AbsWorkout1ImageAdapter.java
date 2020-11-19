@@ -9,7 +9,7 @@ import androidx.viewpager.widget.PagerAdapter;
 
 public class AbsWorkout1ImageAdapter extends PagerAdapter {
     private Context mContext;
-    private int[] mImageIds = new int[]{R.drawable.absworkoutone1, R.drawable.absworkoutone2};
+    private int[] mImageIds = new int[]{R.drawable.abworkout1n1, R.drawable.abworkout1n2};
 
     AbsWorkout1ImageAdapter(Context context) {
         mContext = context;

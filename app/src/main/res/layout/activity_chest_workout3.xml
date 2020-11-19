@@ -17,7 +17,7 @@
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:gravity="center"
-            android:text="Straight Bar Dips"
+            android:text="Incline push-up"
             android:textSize="35dp" />
 
         <TextView
@@ -68,7 +68,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="Start by suspending yourself from the ground with two parallel bars. Then lower yourself slowly and in control without touching the ground until your elbows are bent at 90° then lift yourself back up. Repeat."
+            android:text="Prop your feet up on a sturdy surface and place hands on the ground in standard push-up position. Lower yourself down as if you are performing a standard push-up until chin is about  6 inches from the ground. Push with your chest and arms until back in start position. Repeat for rep. count"
             android:textSize="16dp" />
 
     </LinearLayout>

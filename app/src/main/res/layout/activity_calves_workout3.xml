@@ -17,16 +17,16 @@
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:gravity="center"
-            android:text="Walking, Running, Hiking"
+            android:text="Box Jump"
             android:textSize="35dp" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="50dp"
-            android:text="Distance is the key"
             android:gravity="left"
+            android:text="Reps: 15 Rest: 20sec"
             android:textSize="28dp"
-            android:textStyle="bold"/>
+            android:textStyle="bold" />
     </LinearLayout>
 
 
@@ -68,7 +68,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="Walking, running, and hiking are all great exercises to build calf muscles.  Keep in mind a set and accomplishable distance while remembering to hydrate often, for extra muscle gain try running or walking with a weighted vest or hiking with a weighted pack approriate for hiking"
+            android:text="With a stable box or platform in front of you and enough room behind you to safely jump back into, position yourself in a crouch-like squat and exert force downward to jump high enough to land firmly on the box or platform. After landing take a moment to stand up straight and gain balance and then carefully jump backwards onto the ground."
             android:textSize="16dp" />
 
     </LinearLayout>

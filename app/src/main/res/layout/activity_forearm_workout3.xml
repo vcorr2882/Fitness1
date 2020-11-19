@@ -42,10 +42,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:background="@color/fitnessappyellow"
-            android:drawableLeft="@drawable/leftarrow"
-            android:drawableRight="@drawable/rightarrow"
             android:gravity="center"
-            android:text="Swipe"
             android:textColor="@color/black"
             android:textSize="26dp" />
 

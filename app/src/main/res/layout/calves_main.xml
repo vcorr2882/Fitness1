@@ -22,7 +22,7 @@
             android:adjustViewBounds="true"
             android:background="@color/black"
             android:scaleType="fitCenter"
-            android:src="@drawable/bicepsmainworkout1" />
+            android:src="@drawable/calftest" />
 
         <TextView
             android:layout_width="match_parent"
@@ -50,7 +50,7 @@
             android:adjustViewBounds="true"
             android:background="@color/black"
             android:scaleType="fitCenter"
-            android:src="@drawable/bicepsmainworkout2" />
+            android:src="@drawable/calftest" />
 
         <TextView
             android:layout_width="match_parent"
@@ -79,7 +79,7 @@
             android:adjustViewBounds="true"
             android:background="@color/black"
             android:scaleType="fitCenter"
-            android:src="@drawable/backmainworkout3" />
+            android:src="@drawable/calftest" />
 
         <TextView
             android:layout_width="match_parent"
